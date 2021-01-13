@@ -1,6 +1,10 @@
 # images-in-readme
 
-![2ciu6mo6r9x9zyverc10](https://user-images.githubusercontent.com/44220596/104407544-cf316980-5587-11eb-8c7e-66d28d9dde96.gif)
+![1522b07027184cd655c551f401f2b25e](https://user-images.githubusercontent.com/44220596/104488654-adba9700-55f4-11eb-9161-b8cef48d886e.gif)
+
+
+![563e6069b250f419eceb2be4b290671b](https://user-images.githubusercontent.com/44220596/104488659-ae532d80-55f4-11eb-93c1-a386927b4f81.gif)
+
 
 ![1_PsP6K0bdbl_beC9UqSPjhA](https://user-images.githubusercontent.com/44220596/104407018-b96f7480-5586-11eb-91fb-e95a7e073d66.gif)
 
