@@ -1,6 +1,9 @@
 # images-in-readme
 
 
+![get-to-work](https://user-images.githubusercontent.com/44220596/105857772-9de97c80-6010-11eb-886f-05228e46a9e9.gif)
+
+
 
 ![automated](https://user-images.githubusercontent.com/44220596/105857758-99bd5f00-6010-11eb-82d2-695460234778.gif)
 
