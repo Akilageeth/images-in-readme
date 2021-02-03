@@ -4,10 +4,10 @@
 ![df790e5aa038e98e7a6df7bade0ec4ef](https://user-images.githubusercontent.com/44220596/105857774-9e821300-6010-11eb-89de-667048ca4378.gif)
 
 
-2
+(2)
 ![get-to-work](https://user-images.githubusercontent.com/44220596/105857772-9de97c80-6010-11eb-886f-05228e46a9e9.gif)
 
-3
+(3)
 
 ![automated](https://user-images.githubusercontent.com/44220596/105857758-99bd5f00-6010-11eb-82d2-695460234778.gif)
 
