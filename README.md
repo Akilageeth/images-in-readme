@@ -21,7 +21,7 @@ Ghhhj
 ![287b612d87648274e86c7e12124a2e66](https://user-images.githubusercontent.com/44220596/104844314-a4cc0d00-58f5-11eb-80dd-9f82d6005be5.gif)
 (6)
 ![fea48a1ea866adef334527f9ed33796ab4b1d9aa](https://user-images.githubusercontent.com/44220596/104540766-23028800-5646-11eb-95f0-309bb7816595.gif)
-(7)
+(7)cvg
 
 ![1522b07027184cd655c551f401f2b25e](https://user-images.githubusercontent.com/44220596/104488654-adba9700-55f4-11eb-9161-b8cef48d886e.gif)
 (8)
