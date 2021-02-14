@@ -24,7 +24,7 @@ Ghhhj
 (7)cvg
 
 ![1522b07027184cd655c551f401f2b25e](https://user-images.githubusercontent.com/44220596/104488654-adba9700-55f4-11eb-9161-b8cef48d886e.gif)
-(8)
+(8) chance
 
 
 
